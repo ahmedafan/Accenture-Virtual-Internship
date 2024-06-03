@@ -1,9 +1,13 @@
 # Accenture-Virtual-Internship
 
 Task One: Project Understanding
+
 Task Two: Data Cleaning & Modeling
+
 Task Three: Data Visualization & Storytelling
+
 Task Four: Present to the Client
+
 
 **Program link**: [Forage](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)
 
